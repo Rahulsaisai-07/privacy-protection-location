@@ -1,0 +1,12 @@
+location-tracking-awareness/
+├── examples/
+│   ├── basic_ip_locator.py
+│   ├── link-location-demo.html 
+│   └── ...
+├── detection/
+│   ├── location-privacy-scanner.sh
+│   └── ... 
+├── resources/
+│   ├── location-tracking-risks.pdf
+│   └── privacy-tools-guide.md
+└── README.md
